@@ -1,5 +1,5 @@
 
-# 🖨️ Zebra GC420t USB Direct ZPL Printing (No Windows Spooler)
+# 🖨️ Zebra GC420t USB Direct ZPL Printing
 
 A low-level Python script to send **ZPL (Zebra Programming Language)** directly to **Zebra GC420t** via USB.  
 **No need to install Windows printer drivers or use the Windows Print Spooler.** This approach is ideal for embedded systems, automation, kiosks, or developer-focused deployments.
